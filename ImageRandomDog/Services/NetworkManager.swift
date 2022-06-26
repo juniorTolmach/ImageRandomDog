@@ -48,3 +48,4 @@ class NetworkManager {
         return try? Data(contentsOf: imageURL)
     }
 }
+
